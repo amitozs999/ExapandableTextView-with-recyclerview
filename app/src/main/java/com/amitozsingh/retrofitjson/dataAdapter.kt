@@ -109,7 +109,7 @@ class dataAdapter(var context: Context, val namelist:List<Doc>): RecyclerView.Ad
 
 
 
-       
+
 
 
 
